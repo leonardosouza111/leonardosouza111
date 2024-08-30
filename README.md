@@ -1,16 +1,27 @@
-## Hi there 👋
+## Seja Bem Vindo Ao Meu Perfil 
 
-<!--
-**leonardosouza111/leonardosouza111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá a todos, meu nome é Leonardo,
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://cursos.alura.com.br/loginForm?urlAfterLogin=/dashboard); 
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo desse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+ 
+ ### Abaixo está o meu perfil no Scratch, onde compartilho os jogos que crio enquanto faço cursos na Alura.
+  [Perfil Scratch](https://scratch.mit.edu/users/leonard0souza/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode me encontrar no instagram 
+👇Clica no link aqui embaixo e ja dá uma passada lá.👇
+
+[leoozinhoo_46](https://www.instagram.com/leoozinhoo_46?igsh=bzhybXd4ejJ0MzAx)
+
+### Caso queira entrar em contato pelo meu e-mail 👇
+
+### leonardo.souza.taborda@escola.pr.gov.br
+
+### BÔNUS 
+
+### A vida é passageira, mas o seu legado pode ser eterno...
+
+![](https://media1.tenor.com/m/fHBk0iPFwfQAAAAC/salute-yes-sir.gif)
+
+
